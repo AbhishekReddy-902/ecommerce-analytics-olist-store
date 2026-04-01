@@ -119,7 +119,7 @@ GROUP BY r.review_score
 ORDER BY r.review_score;
 ```
 
-## 📸 Screenshots
+## 📸 Dashboard Preview
 
 ### Power BI Dashboard
 ![Dashboard Screenshot](Screenshot%2026-03-31%171450.png)
