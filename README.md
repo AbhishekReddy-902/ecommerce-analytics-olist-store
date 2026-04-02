@@ -121,14 +121,15 @@ ORDER BY r.review_score;
 
 ## 📸 Dashboard Preview
 
+### Excel Dashboard
+![Dashboard Screenshot](Screenshot%202026-04-01%20184036.png)
+
 ### Power BI Dashboard
 ![Dashboard Screenshot](Screenshot%202026-04-02%20104413.png)
 
 ### Tableau Dashboard
 ![Dashboard Screenshot](Screenshot%202026-03-31%20171450.png)
 
-### Excel Dashboard
-![Dashboard Screenshot](Screenshot%202026-04-01%20184036.png)
 
 
 
